@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shambu Nath Singh</h1>
+<h1 align="center">Hi 👋, I'm Suman Saha</h1>
 <h3 align="center">Web Developer at Tim Digital</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about *Bootstrap, PHP and Laravel*
 
-- 📫 How to reach me *shambun.timd@gmail.com*
+- 📫 How to reach me *suman2.timd@gmail.com*
 
 - ⚡ Fun fact *I am friendly and funny*
 
